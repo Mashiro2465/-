@@ -24,7 +24,6 @@ wwww
 xxx
 yy
 z
-z
 yy
 xxx
 wwww
